@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans+Mono');
+
+.num-font {
+    font-family: 'Droid Sans Mono', sans-serif;
+}
+
+.main-content {
+    padding: 50px 15px;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    height: 38px;
+    color: #EEE;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+/* examples */
+
+div.feature {
+    text-align: left;
+}
+
+div.feature span.glyphicon {
+    margin: 0px 20px 15px 20px;
+    color: #6ff66f;
+    font-size: 20px;
+}
+
+div.main-content h1 {
+    color: rgb(51, 122, 183);
+}
+
+input.form-control.enabled {
+    background-color: white;
+}
+
+div.well-custom {
+    padding: 0px;
+    margin: 5px;
+    background-color: transparent;
+}
+
+.label-well {
+    padding-top: 8px;
+    text-align: right;
+}
+
+.lg-font {
+    font-size: 28px;
+}
+
+.sm-font {
+    font-size: 12px;
+}

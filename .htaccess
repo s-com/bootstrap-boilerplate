@@ -1,0 +1,5 @@
+# allow full access other domain
+#Header set Access-Control-Allow-Origin "*"
+
+# allow multiple domain (space separated)
+Header set Access-Control-Allow-Origin "https://api.github.com http://www.mocky.io"
